@@ -1,0 +1,34 @@
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\bin\Debug\net10.0\BusinessAccessLayer.deps.json
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\bin\Debug\net10.0\BusinessAccessLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\bin\Debug\net10.0\BusinessAccessLayer.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\bin\Debug\net10.0\DataAccessLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\bin\Debug\net10.0\Models.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\bin\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\bin\Debug\net10.0\Models.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\Business.395A7FC9.Up2Date
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\refint\BusinessAccessLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\BusinessAccessLayer\obj\Debug\net10.0\ref\BusinessAccessLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\bin\Debug\net10.0\BusinessAccessLayer.deps.json
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\bin\Debug\net10.0\BusinessAccessLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\bin\Debug\net10.0\BusinessAccessLayer.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\bin\Debug\net10.0\DataAccessLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\bin\Debug\net10.0\Models.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\bin\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\bin\Debug\net10.0\Models.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\Business.395A7FC9.Up2Date
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\refint\BusinessAccessLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\BusinessAccessLayer.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\BusinessAccessLayer\obj\Debug\net10.0\ref\BusinessAccessLayer.dll

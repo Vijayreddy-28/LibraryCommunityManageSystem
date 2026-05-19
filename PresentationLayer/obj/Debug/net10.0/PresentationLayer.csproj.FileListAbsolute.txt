@@ -1,0 +1,72 @@
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\PresentationLayer.exe
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\PresentationLayer.deps.json
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\PresentationLayer.runtimeconfig.json
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\PresentationLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\PresentationLayer.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Npgsql.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\BusinessAccessLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\DataAccessLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Models.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\BusinessAccessLayer.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\Models.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\bin\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.AssemblyInfo.cs
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\Presenta.9C561136.Up2Date
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\refint\PresentationLayer.dll
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.pdb
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\PresentationLayer.genruntimeconfig.cache
+C:\Users\teenu\RiderProjects\LibraryManagementSystem\PresentationLayer\obj\Debug\net10.0\ref\PresentationLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\PresentationLayer.exe
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\PresentationLayer.deps.json
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\PresentationLayer.runtimeconfig.json
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\PresentationLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\PresentationLayer.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\BusinessAccessLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\DataAccessLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Models.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\BusinessAccessLayer.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\Models.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\bin\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.AssemblyInfo.cs
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\Presenta.9C561136.Up2Date
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\refint\PresentationLayer.dll
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.pdb
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\PresentationLayer.genruntimeconfig.cache
+C:\Users\Vijay D V\Downloads\Library-Management-System-master\PresentationLayer\obj\Debug\net10.0\ref\PresentationLayer.dll
